@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/moamen-hassan/](https://www.linkedin.com/in/moamen-hassan/)
 
-- ⚡ Fun fact **I see programming as an art, not just a job—I love solving tough tech challenges!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
