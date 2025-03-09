@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moamen-0" alt="moamen-0" /></a> </p>
 
-- 🔭 I'm currently working on [[Fitness App API]((https://github.com/moamen-0/FitnessApp.Api))
+- 🔭 I'm currently working on [Fitness App API](https://github.com/moamen-0/FitnessApp.Api)
 ](https://github.com/moamen-0/FitnessApp.Api)
 - 🌱 I'm currently learning **Advanced API development with ASP.NET Core and cloud technologies**
 
