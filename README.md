@@ -54,6 +54,7 @@
 <h4>Fitness App API 💪</h4>
 <p>Currently developing a comprehensive API for fitness tracking and workout management applications with user authentication, workout planning, and progress tracking features.</p>
 <p><strong>Technologies:</strong> ASP.NET Core Web API, SQL Server, Entity Framework Core, JWT Authentication</p>
+<p><strong>Deployment & DevOps:</strong> The API is containerized using Docker and automatically built and deployed to Google Cloud Platform using GitHub Actions and CI/CD pipelines.</p>
 
 <h4>Asset Management System 🏥</h4>
 <p>A comprehensive healthcare asset management solution with lifecycle tracking, role-based permissions, real-time analytics, and document generation capabilities.</p>
