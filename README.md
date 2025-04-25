@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on [Fitness App API](https://github.com/moamen-0/FitnessApp.Api)
 
-- 🌱 I'm currently learning **Advanced API development with ASP.NET Core and cloud technologies**
+- 🌱 I'm currently learning **Advanced API development with ASP.NET Core and Microservices**
 
 - 👨‍💻 I'm a freelance .NET Developer with experience in building enterprise-level applications
 
