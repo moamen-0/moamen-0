@@ -3,11 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moamen-0" alt="moamen-0" /></a> </p>
 
-- 🔭 I'm currently working on [Fitness App API](https://github.com/moamen-0/FitnessApp.Api)
-
-- 🌱 I'm currently learning **Advanced API development with ASP.NET Core and Microservices**
-
-- 👨‍💻 I'm a freelance .NET Developer with experience in building enterprise-level applications
 
 - 👯 I'm looking to collaborate on **Backend projects using .NET or open-source contributions on GitHub**
 
@@ -16,8 +11,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/moamen-0](https://github.com/moamen-0)
 
 - 💬 Ask me about **.NET development, database design, N-tier architecture, and optimizing software performance**
-
-- 📫 How to reach me **momenhassan7240@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/moamen-hassan/](https://www.linkedin.com/in/moamen-hassan/)
 
