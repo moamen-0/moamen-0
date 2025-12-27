@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moamen Hassan</h1>
 <h3 align="center">Backend Developer | ASP.NET Core & C# Specialist | Crafting Scalable & Innovative Software Solutions</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moamen-0" alt="moamen-0" /></a> </p>
-
-
 - 👯 I'm looking to collaborate on **Backend projects using .NET or open-source contributions on GitHub**
 
 - 🤝 I'm looking for help with **Contributing to real-world projects on GitHub**
