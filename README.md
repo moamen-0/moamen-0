@@ -123,13 +123,4 @@ Scalable e-commerce REST API designed with clean architecture principles and per
 
 <hr/>
 
-<h4>Online Learning Platform 🎓</h4>
-<p>
-Dual-role (Instructor / Student) MVC platform allowing course creation, video uploads, and student progress tracking.
-</p>
-<p>
-<strong>Technologies:</strong> ASP.NET Core MVC, SQL Server, Entity Framework, Identity, Bootstrap
-</p>
-<p>
-🔗 <a href="https://github.com/moamen-0/Auth.DEPI.Final.sol">GitHub</a>
-</p>
+
