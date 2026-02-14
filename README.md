@@ -5,8 +5,6 @@
 
 - 🤝 I'm looking for help with **Contributing to real-world projects on GitHub**
 
-- 👨‍💻 All of my projects are available at [https://github.com/moamen-0](https://github.com/moamen-0)
-
 - 💬 Ask me about **.NET development, database design, N-tier architecture, and optimizing software performance**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/moamen-hassan/](https://www.linkedin.com/in/moamen-hassan/)
