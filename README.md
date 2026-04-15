@@ -61,39 +61,39 @@ Backend software engineer with 1+ year of production experience building ERP and
 
 ## Open Source Contributions
 
-### [Orchard Core](https://github.com/OrchardCMS/OrchardCore) — ASP.NET Core CMS Framework
+### [Orchard Core](https://github.com/OrchardCMS/OrchardCore) — ASP.NET Core CMS Framework &nbsp; [![Contributors](https://img.shields.io/badge/Contributors%20List-gray?style=flat-square)](https://docs.orchardcore.net/en/latest/community/contributors/)
 
 | PR | Status |
 |---|---|
-| 🔧 Fixed Azure Blob & AWS S3 file store path normalization | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=git&logoColor=white) |
-| 🔍 Resolved Elasticsearch indexing misconfiguration affecting search | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| [🔧 Fixed Azure Blob & AWS S3 file store path normalization](https://github.com/OrchardCMS/OrchardCore/pull/18683) | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| [🔍 Resolved Elasticsearch indexing misconfiguration affecting search](https://github.com/OrchardCMS/OrchardCore/pull/18709) | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
 ## Projects
 
-### 🧠 [Moodak](https://play.google.com/store/apps) — Mental Health App
+### 🧠 Moodak — Mental Health App &nbsp; [![App Store](https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/eg/app/moodak/id6749917660) [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.drKhaled.myMood)
 > **ASP.NET Core · SQL Server · JWT · Multilingual (EN/AR)**
 
 Production-ready API with **50+ endpoints** supporting mood tracking, emotion analysis integration, analytics dashboard, and subscription management.
 
 ---
 
-### 📖 [Halqa](https://halqa.live) — Quran Learning Platform
+### 📖 [Halqa](https://www.halqa.online/) — Quran Learning Platform
 > **ASP.NET Core · Layered Architecture · 100ms Video API**
 
 Scalable backend for an online tutoring platform supporting **100+ live sessions**, with booking/session management and custom JWT token generation for video integration.
 
 ---
 
-### 🛒 E-Commerce API *(Live)*
+### 🛒 [E-Commerce API](https://www.sagcollctive.com/men) *(Live)*
 > **ASP.NET Core · Redis · Clean Architecture · JWT**
 
 Product catalog API with active order processing, **Redis caching** for performance, and JWT-based authentication following clean architecture patterns.
 
 ---
 
-### 📦 Asset Management System *(Client Delivery)*
+### 📦 [Asset Management System](https://mostaql.com/u/mo2mn/reviews/8497260) *(Client Review)*
 > **ASP.NET Core MVC · SQL Server · RBAC**
 
 Full asset lifecycle management with role-based access control (admin / auditor / viewer), complete audit logs, and bulk Excel import with row-level validation.
@@ -120,6 +120,15 @@ Full asset lifecycle management with role-based access control (admin / auditor 
 ![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20problems-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 
 Advanced training (ICPC Level 3): Dynamic Programming · LCA · Graph Algorithms (DFS, BFS, MST)
+
+---
+
+## Certifications
+
+[![DEPI .NET](https://img.shields.io/badge/DEPI%20.NET%20Web%20Developer-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://drive.google.com/file/d/15CTv0JvuzUsLNyN9ZF5Lz02K4PsBuTwA/view?usp=sharing)
+[![ITI Angular](https://img.shields.io/badge/ITI%20Front--End%20Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://drive.google.com/file/d/1X5G9SoFlpdUGWyboZroAdR14EEtdRdXB/view?usp=sharing)
+[![Manara DB](https://img.shields.io/badge/Manara%20Databases%20Learning%20Path-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://drive.google.com/file/d/1wYVXJxmpdLeJcF5coR7SbOSCkEBgJHH8/view?usp=sharing)
+[![Business English](https://img.shields.io/badge/Business%20English%20Certificate-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](https://drive.google.com/file/d/1l5DVAXm4PtJ3CY8bI8fLKtVsb8Y1bdbB/view?usp=sharing)
 
 ---
 
