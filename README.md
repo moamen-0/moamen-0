@@ -96,7 +96,7 @@ Product catalog API with active order processing, **Redis caching** for performa
 ### 📦 [Asset Management System](https://mostaql.com/u/mo2mn/reviews/8497260) *(Client Review)*
 > **ASP.NET Core MVC · SQL Server · RBAC**
 
-Full asset lifecycle management with role-based access control (admin / auditor / viewer), complete audit logs, and bulk Excel import with row-level validation.
+Full asset lifecycle management with role-based access control (admin / auditor / viewer), complete audit logs, PDFs generation, and bulk Excel import with row-level validation.
 
 ---
 
