@@ -107,8 +107,6 @@ Full asset lifecycle management with role-based access control (admin / auditor 
 
 ![Moamen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moamen-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moamen-0&layout=compact&theme=tokyonight&hide_border=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=moamen-0&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
