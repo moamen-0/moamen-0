@@ -80,7 +80,7 @@ Production-ready API with **50+ endpoints** supporting mood tracking, emotion an
 
 ---
 
-### 📖 [Halqa](https://www.halqa.online/) — Quran Learning Platform
+### 📖 [Halqa](https://www.halqa.online/) — Quran Learning Platform *(Live)*
 > **ASP.NET Core · Layered Architecture · 100ms Video API**
 
 Scalable backend for an online tutoring platform supporting **100+ live sessions**, with booking/session management and custom JWT token generation for video integration.
