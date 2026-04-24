@@ -14,7 +14,7 @@
 Backend software engineer with 1+ year of production experience building ERP and CRM systems for pharmaceutical clients, contributing to open-source ASP.NET Core projects, and delivering APIs powering live mobile and web applications.
 
 - 🏗️ Currently building a **.NET Core CRM/ERP** system serving **200+ pharmaceutical organizations** at SBS
-- 🔧 **2 merged PRs** in [Orchard Core](https://github.com/OrchardCMS/OrchardCore) — a major ASP.NET Core CMS framework
+- 🔧 **3 merged PRs** in [Orchard Core](https://github.com/OrchardCMS/OrchardCore) — a major ASP.NET Core CMS framework
 - 💻 Freelancing on [Mostaqel.com](https://mostaqel.com) — REST APIs handling **500+ daily requests**
 - 🎓 B.Sc. Computer Science, October 6 University — Graduation project grade: **A+**
 - 🧠 **500+ problems** solved on Codeforces & LeetCode (ICPC Level 3 training)
@@ -68,6 +68,8 @@ Backend software engineer with 1+ year of production experience building ERP and
 |---|---|
 | [🔧 Fixed Azure Blob & AWS S3 file store path normalization](https://github.com/OrchardCMS/OrchardCore/pull/18683) | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | [🔍 Resolved Elasticsearch indexing misconfiguration affecting search](https://github.com/OrchardCMS/OrchardCore/pull/18709) | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| [🎯 Fixed Content Picker input width to match standard Orchard admin form inputs](https://github.com/OrchardCMS/OrchardCore/pull/18881) | ![Merged](https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+
 
 ---
 
