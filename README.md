@@ -67,51 +67,6 @@ Backend Software Engineer focused on building **production-grade enterprise and 
 
 ---
 
-## Professional Experience
-
-### 💳 Premium Card — Software Engineer
-
-**Jun 2026 – Present · Cairo, Egypt**
-
-Backend development for financial systems and mobile applications using **ASP.NET Core and SQL Server**.
-
-* Implemented the backend integration behind the **first in-app payment feature** in the Premium Card mobile application
-* Built the payment integration workflow covering:
-
-  * Request mapping
-  * Validation
-  * Secure request signing
-  * Asynchronous payment status handling
-
----
-
-### 🏢 SBS — Simple Brilliant Solution — Software Engineer
-
-**Jul 2025 – Jun 2026 · Giza, Egypt**
-
-* Built and maintained a **.NET Core CRM/ERP system serving 200+ pharmaceutical organizations**
-* Improved SQL query performance by **20–30%** across reporting modules
-* Integrated enterprise systems including:
-
-  * Egyptian Tax Authority (ETA)
-  * ERPNext
-  * ZKTeco biometric devices
-
----
-
-### 💻 Freelance .NET Developer — Mostaqel.com
-
-**Jan 2025 – Present**
-
-* Manage the full SDLC including:
-
-  * Requirements gathering
-  * Development
-  * Unit testing
-  * API documentation
-  * Client handoff
-
----
 
 ## Open Source Contributions
 
