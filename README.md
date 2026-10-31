@@ -12,14 +12,14 @@
 
 Backend Software Engineer focused on building **production-grade enterprise and financial systems** using **ASP.NET Core and SQL Server**.
 
-* 💳 Currently building backend services for **financial systems and mobile applications** at Premium Card
-* 🔐 Implemented the backend integration behind the **first in-app payment feature** in the Premium Card mobile application
-* 🔄 Experienced with **distributed payment workflows**, including request mapping, validation, secure request signing, and asynchronous payment status handling
-* 🏗️ Previously built and maintained a **.NET Core CRM/ERP system serving 200+ pharmaceutical organizations**
-* 🔧 Open-source contributor to **Orchard Core**, an ASP.NET Core CMS framework
-* 💻 Freelance .NET Developer delivering REST APIs handling **500+ daily requests**
-* 🎓 B.Sc. in Computer Science from October 6 University — Graduation Project: **A+**
-* 🧠 Solved **500+ problems** on Codeforces & LeetCode through advanced competitive programming training
+- 💳 Currently building backend services for **financial systems and mobile applications** at Premium Card
+- 🔐 Implemented the backend integration behind the **first in-app payment feature** in the Premium Card mobile application
+- 🔄 Experienced with **distributed payment workflows**, including request mapping, validation, secure request signing, and asynchronous payment status handling via **RabbitMQ**
+- 🏗️ Previously built and maintained a **.NET Core CRM/ERP system serving 200+ pharmaceutical organizations**
+- 🔧 Open-source contributor to **Orchard Core**, an ASP.NET Core CMS framework
+- 💻 Freelance .NET Developer delivering REST APIs handling **500+ daily requests**
+- 🎓 B.Sc. in Computer Science from October 6 University — Graduation Project: **A+**
+- 🧠 Solved **500+ problems** on Codeforces & LeetCode through advanced competitive programming training
 
 ---
 
@@ -39,6 +39,7 @@ Backend Software Engineer focused on building **production-grade enterprise and 
 ![.NET MVC](https://img.shields.io/badge/.NET%20MVC-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 ![Web API](https://img.shields.io/badge/Web%20API-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
 ![Hangfire](https://img.shields.io/badge/Hangfire-darkblue?style=flat-square)
 ![Serilog](https://img.shields.io/badge/Serilog-2F2F2F?style=flat-square)
 
